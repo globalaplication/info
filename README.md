@@ -1,1 +1,1 @@
-# info
+cpu gpu ram system info
